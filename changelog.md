@@ -1,6 +1,19 @@
+0.6.8
+-----
+* Updated leaflet javascript links in leafletmap_template which is used to create idaho slippy maps
+
+0.6.7
+-----
+* Add gbdx.vectors.query, gbdx.vectors.create, and gbdx.vectors.create_from_wkt
+
+0.6.6
+-----
+* simpleworkflows.savedata now uses persist flag
+* s3.download maintains directory structure
+
 0.6.5
 -----
-* Can now set impersonation_allowed flag 
+* Can now set impersonation_allowed flag
 
 0.6.4
 -----
